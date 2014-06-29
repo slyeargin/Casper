@@ -493,6 +493,16 @@ margin on the iframe, cause it breaks stuff. */
     text-shadow: 0 1px 3px rgba(0,0,0,0.15);
 }
 
+.social {
+  color: #999;
+  font-size: 0.8em;
+}
+
+.social a {
+  margin: 0 0 0 10px;
+  color: #bf81ca;
+}
+
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
     position: relative;
